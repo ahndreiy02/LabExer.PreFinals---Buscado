@@ -1,0 +1,12 @@
+C:\Users\ComputerLab4PC1\source\repos\CreatingTextFile\bin\Debug\CreatingTextFile.exe.config
+C:\Users\ComputerLab4PC1\source\repos\CreatingTextFile\bin\Debug\CreatingTextFile.exe
+C:\Users\ComputerLab4PC1\source\repos\CreatingTextFile\bin\Debug\CreatingTextFile.pdb
+C:\Users\ComputerLab4PC1\source\repos\CreatingTextFile\obj\Debug\CreatingTextFile.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\CreatingTextFile\obj\Debug\CreatingTextFile.FrmFileName.resources
+C:\Users\ComputerLab4PC1\source\repos\CreatingTextFile\obj\Debug\CreatingTextFile.Form1.resources
+C:\Users\ComputerLab4PC1\source\repos\CreatingTextFile\obj\Debug\CreatingTextFile.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\CreatingTextFile\obj\Debug\CreatingTextFile.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\CreatingTextFile\obj\Debug\CreatingTextFile.exe
+C:\Users\ComputerLab4PC1\source\repos\CreatingTextFile\obj\Debug\CreatingTextFile.pdb
+C:\Users\ComputerLab4PC1\source\repos\CreatingTextFile\obj\Debug\CreatingTextFile.FrmRegistration.resources
+C:\Users\ComputerLab4PC1\source\repos\CreatingTextFile\obj\Debug\CreatingTextFile.FrmStudentRecord.resources
